@@ -74,9 +74,9 @@ export const Home =()=>{
         <div className="w-full flex overflow-x-auto space-x-5" ref={refContainer} onScroll={handleScroll}>
         
 
-        {featuredTemples.temples.map((element)=>{
+        {featuredTemples.temples.map((element,index)=>{
             const imageId=featuredTemples.imageLocations[element.featured_image]
-            return <Link to={`/detail/${element.id}`} className="lg:ml-12"><img src={`https://templesofindia.org/assets/compressed/${imageId}`} className="min-w-[350px] h-[375px] rounded-xl cursor-pointer"/></Link>
+            return <Link key={index} to={`/detail/${element.id}`} className="lg:ml-12"><img src={`https://templesofindia.org/assets/compressed/${imageId}`} className="min-w-[350px] h-[375px] rounded-xl cursor-pointer"/></Link>
 
         })}
       
@@ -88,7 +88,7 @@ export const Home =()=>{
         <div className="flex space-x-1 self-center">
             {featuredTemples.temples.map((element,index)=>{
 
-                return <img src={active==index?dotExpanded:dotNormal}/>
+                return <img key={index} src={active==index?dotExpanded:dotNormal}/>
 
             })}
         </div>
@@ -100,10 +100,10 @@ export const Home =()=>{
         <h1 className="text-3xl text-primary font-extrabold ">Latest Temples</h1>
         <div className="flex justify-start overflow-x-auto px-2  min-h-[380px] space-x-5">
 
-            {recentlyAddedTemples.temples.map((element)=>{
+            {recentlyAddedTemples.temples.map((element,index)=>{
 
 
-                return <Card id={element.id} name={element.title} location={`${element.locality},${element.state}`} imageId={recentlyAddedTemples.imageLocations[element.featured_image]}>
+                return <Card key={index} id={element.id} name={element.title} location={`${element.locality},${element.state}`} imageId={recentlyAddedTemples.imageLocations[element.featured_image]}>
                 
                 </Card>
 
@@ -123,9 +123,9 @@ export const Home =()=>{
     <h1 className="text-3xl text-primary font-extrabold ">Famous NearBy</h1>
     <div className="flex justify-start overflow-x-auto px-2   space-x-5 min-h-[320px]">
 
-        {mostVisitedTemples.temples.map((element)=>{
+        {mostVisitedTemples.temples.map((element,index)=>{
       
-            return <Card id={element.id} name={element.title} location={`${element.locality},${element.state}`} imageId={mostVisitedTemples.imageLocations[element.featured_image]}>
+            return <Card key={index} id={element.id} name={element.title} location={`${element.locality},${element.state}`} imageId={mostVisitedTemples.imageLocations[element.featured_image]}>
 
             </Card>
 
