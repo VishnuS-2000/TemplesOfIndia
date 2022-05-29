@@ -1,0 +1,1226 @@
+﻿{
+    "recentlyAddedTemples": {
+        "imageLocations": {
+            "615": "9f87f8d945e13ca0dfc90e4e3c345e6b_219.png",
+            "30561": "3188c5e80b9eb158263f8255408478fe_219.jpg",
+            "31536": "3f0064f5d8027e1b1e52d89372679650_942.png",
+            "32385": "8a8dc360cca06c9c5082fa7aa8184c8a_573.jpg",
+            "35452": "d39f2fac773f7c82a160e75f3082056c_1818.jpg",
+            "35627": "ebe58fbe2de223b78d927174a9f1b616_2084.jpg",
+            "35654": "5350959e41347d955d259f8dbb8b9524_2132.jpg",
+            "35656": "ddf01826b2a4c716d4b335b2103865d2_231.jpg",
+            "35658": "e7b2384e5556abf822cdac95e81b0dd2_231.jpg",
+            "35661": "0d0d3d28b7fa379e59aca4fa38b6425c_2135.jpg",
+            "35666": "282fdad74abdfbd6ae3f53a9a8a845b9_2143.jpg",
+            "35698": "03987c4c56e95c7ce79e532338de58df_2160.jpg",
+            "35699": "bc7efbe3a71b60559968416ca19a9de2_2167.jpg",
+            "35700": "9741d263ae762d8a89162c90cef995f0_2168.jpg",
+            "35701": "5888ed97e35f69c1c37ca5886b5f3ef7_2168.jpg",
+            "35702": "fff9468a1038c1b670392fc0ee11898f_2178.jpg",
+            "null": "Golden-Temple.jpg"
+        },
+        "temples": [
+            {
+                "id": 551145,
+                "featured_image": 35702,
+                "diety": "SRI CHAITANYA MAHAPRAVU",
+                "locality": "Howrah",
+                "country": "India",
+                "state": "West Bengal",
+                "district": "Howrah",
+                "tehsil": "",
+                "title": "Nimai Math",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        88.32958119999999,
+                        22.5819548
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "nimai-math-howrah-west-bengal-821ihe"
+            },
+            {
+                "id": 481831,
+                "featured_image": 31536,
+                "diety": "Durga Devi ",
+                "locality": "Hapur",
+                "country": "India",
+                "state": "Uttar Pradesh",
+                "district": "Hapur",
+                "tehsil": "",
+                "title": "Maa Nagarkot Kangra Devi Mandir",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        77.745105,
+                        28.6136337
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "maa-nagarkot-kangra-devi-mandir-hapur-uttar-pradesh-915lgj",
+                "viewCount": "4521"
+            },
+            {
+                "id": 853139,
+                "featured_image": 32385,
+                "diety": "Shiva",
+                "locality": "VadapattPerur Road",
+                "country": "India",
+                "state": "Tamil Nadu",
+                "district": "Coimbatore District",
+                "tehsil": "Coimbatore South",
+                "title": "Arulmigu Patteswarar Swamy Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        76.91476251303006,
+                        10.975977068385932
+                    ]
+                },
+                "createdAt": "2021-06-01T11:36:03.903Z",
+                "webLink": "arulmigu-patteswarar-swamy-temple-perur-tamil-nadu-879jiu",
+                "viewCount": "22"
+            },
+            {
+                "id": 853492,
+                "featured_image": 35701,
+                "diety": "Sri Vishnumaya",
+                "locality": "Karuvannur",
+                "country": "India",
+                "state": "Thrissur",
+                "district": "Kerala",
+                "tehsil": null,
+                "title": "Karuvannur Karanayil Vishnumaya Kuttichathan Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        76.21508062237274,
+                        10.507102440971806
+                    ]
+                },
+                "createdAt": "2022-05-22T11:15:24.253Z",
+                "webLink": "karuvannur-karanayil-vishnumaya-kuttichathan-temple-thrissur-kerala-282mts"
+            },
+            {
+                "id": 853491,
+                "featured_image": 35700,
+                "diety": "Sri Vishnumaya",
+                "locality": "Aishwarya Nagar",
+                "country": "India",
+                "state": "Thrissur",
+                "district": "Kerala",
+                "tehsil": null,
+                "title": "Karuvannur Karanayil Vishnumaya Kuttichathan Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        76.21443611231052,
+                        10.511263888372156
+                    ]
+                },
+                "createdAt": "2022-05-22T11:08:02.019Z",
+                "webLink": "karuvannur-karanayil-vishnumaya-kuttichathan-temple-thrissur-kerala-35ces"
+            },
+            {
+                "id": 439451,
+                "featured_image": 35699,
+                "diety": "Jyotirlinga",
+                "locality": "Vrindavan Colony",
+                "country": "India",
+                "state": "Uttar Pradesh",
+                "district": "Lucknow",
+                "tehsil": "",
+                "title": "Jyotirlinga Shivmath",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        80.9738966,
+                        26.7584236
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "jyotirlinga-shivmath-lucknow-uttar-pradesh-607xrj"
+            },
+            {
+                "id": 848046,
+                "featured_image": 35627,
+                "diety": "அருள்மிகு ஶ்ரீ அனந்தம்மன்",
+                "locality": "null",
+                "country": "India",
+                "state": "Tamil Nadu",
+                "district": "Virudhunagar District",
+                "tehsil": "Sattur",
+                "title": "ஐந்து வீட்டு தெய்வம் கழுகுமலை அருள்மிகு ஶ்ரீ அனந்தம்மனை குலதெய்வமாக வழிபடும் நாடார் தாயாதிகள் சங்கம் அருள்மிகு ஶ்ரீ அனந்தம்மன் திருக்கோவில், ஓடைப்பட்டி.",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        77.91259024051953,
+                        9.286803991744776
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "ananthamman-temple-odaipatti-virudhunagar-tamil-nadu-220pzi",
+                "viewCount": "169"
+            },
+            {
+                "id": 702578,
+                "featured_image": null,
+                "diety": "pujariji.in",
+                "locality": "Tuljapur",
+                "country": "India",
+                "state": "Maharashtra",
+                "district": "Osmanabad",
+                "tehsil": "",
+                "title": "pujariji.in",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        76.06803545861584,
+                        18.0115121629686
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "pujari-tuljabhawani-temple-prashant-palange-osmanabad-maharashtra-179hvi",
+                "viewCount": "29"
+            },
+            {
+                "id": 270605,
+                "featured_image": 35698,
+                "diety": "Sri Sri Radhamadhav",
+                "locality": "Mohammad Nagar",
+                "country": "Bangladesh",
+                "state": "Chittagong Division",
+                "district": "Chittagong District",
+                "tehsil": "",
+                "title": "শ্রী শ্রী রাধামাধব মন্দির। উত্তর চাপড়া, কালারপোল,পটিয়া,চট্রগ্রাম।",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        91.88043795775538,
+                        22.320675512356733
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "শ্রী-শ্রী-রাধামাধব-মন্দির-লাখেরা-chittagong-district-chittagong-division-85evf"
+            },
+            {
+                "id": 381902,
+                "featured_image": 615,
+                "diety": "Shiva",
+                "locality": "Varanasi",
+                "country": "India",
+                "state": "Uttar Pradesh",
+                "district": "Varanasi",
+                "tehsil": "",
+                "title": "Shri Kashi Vishwanath Mandir, Varanasi",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        83.01058025188308,
+                        25.31083533164565
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "shri-kashi-vishwanath-purana-mandir-varanasi-uttar-pradesh-266mzg",
+                "viewCount": "100"
+            },
+            {
+                "id": 568507,
+                "featured_image": 35452,
+                "diety": "Gajanan Maharaj Mandir Manaji Nagar Narhe",
+                "locality": "Pune",
+                "country": "India",
+                "state": "Maharashtra",
+                "district": "Pune",
+                "tehsil": "",
+                "title": "Gajanan Maharaj Mandir Manaji Nagar Narhe Pune",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        73.8268989,
+                        18.4501491
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "gajanan-maharaj-mandir-manaji-nagar-narhe-pune-pune-maharashtra-780afa",
+                "viewCount": "95"
+            },
+            {
+                "id": 91487,
+                "featured_image": 35666,
+                "diety": "Sri Bhavahara Ganapathi",
+                "locality": "Subedar Chatram Road",
+                "country": "India",
+                "state": "Karnataka",
+                "district": "Bangalore Urban",
+                "tehsil": "West Zone",
+                "title": "Sri Bhavahara Ganapathi Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        77.57482200000001,
+                        12.98053
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "sri-bhavahara-ganapathi-temple-bangalore-urban-karnataka-99jrw",
+                "viewCount": "47"
+            },
+            {
+                "id": 304942,
+                "featured_image": 35661,
+                "diety": "Puneshwar",
+                "locality": "Bhuj",
+                "country": "India",
+                "state": "Gujarat",
+                "district": "Kutch",
+                "tehsil": "",
+                "title": "Puneshwar Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        69.4085334,
+                        23.2317911
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "puneshwar-temple-kutch-gujarat-59pdr",
+                "viewCount": "56"
+            },
+            {
+                "id": 853488,
+                "featured_image": 35658,
+                "diety": "Sangameshwara",
+                "locality": "Eshwaran Koil Street",
+                "country": "India",
+                "state": "Tamil Nadu",
+                "district": "Coimbatore District",
+                "tehsil": "Central Zone",
+                "title": "Arulmigu Sangameshwarar Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        76.9630348,
+                        10.9921315
+                    ]
+                },
+                "createdAt": "2022-05-14T04:54:33.068Z",
+                "webLink": "arulmigu-sangameshwarar-temple-kottaimedu-tamil-nadu-195ucf",
+                "viewCount": "51"
+            },
+            {
+                "id": 853489,
+                "featured_image": 35656,
+                "diety": "Vinayagar",
+                "locality": "Kottaimedu",
+                "country": "India",
+                "state": "Coimbatore District",
+                "district": "Tamil Nadu",
+                "tehsil": null,
+                "title": "Navashakti Vinayagar Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        76.9630997,
+                        10.9920817
+                    ]
+                },
+                "createdAt": "2022-05-14T05:05:21.531Z",
+                "webLink": "navashakti-vinayagar-temple-coimbatore-tamil-nadu-145yul",
+                "viewCount": "41"
+            },
+            {
+                "id": 65788,
+                "featured_image": 35654,
+                "diety": "S.THENMOZHI BA BL",
+                "locality": "Mecheri",
+                "country": "India",
+                "state": "Tamil Nadu",
+                "district": "Salem",
+                "tehsil": "",
+                "title": "S.THENMOZHI BA BL TEMPLE",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        77.930531,
+                        11.85185
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "s-thenmozhi-ba-bl-temple-salem-tamil-nadu-928hlv",
+                "viewCount": "23"
+            },
+            {
+                "id": 527151,
+                "featured_image": 30561,
+                "diety": "Jawala Ji",
+                "locality": "Kohala",
+                "country": "India",
+                "state": "Himachal Pradesh",
+                "district": "Kangra",
+                "tehsil": "",
+                "title": "Jawala Ji Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        76.32428999999999,
+                        31.875578
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "jawala-ji-temple-kangra-himachal-pradesh-863cuc",
+                "viewCount": "77"
+            },
+            {
+                "id": 626125,
+                "featured_image": null,
+                "diety": "Shri Ayyanarappan Swamy",
+                "locality": "Puduppalayam",
+                "country": "India",
+                "state": "Tamil Nadu",
+                "district": "Salem",
+                "tehsil": "",
+                "title": "Shri Ayyanarappan Swamy Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        77.9076291,
+                        11.6421327
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "shri-ayyanarappan-swamy-temple-salem-tamil-nadu-668ajo",
+                "viewCount": "24"
+            }
+        ],
+        "count": 18
+    },
+    "mostVisitedTemples": {
+        "temples": [
+            {
+                "id": 103430,
+                "featured_image": 31549,
+                "diety": "Shiva",
+                "locality": "Udupi",
+                "country": "India",
+                "state": "Karnataka",
+                "district": "Udupi",
+                "tehsil": "",
+                "title": "Swami Koragajja Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        74.76356849999999,
+                        13.3797533
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "swami-koragajja-temple-udupi-karnataka-796anj",
+                "viewCount": "5618"
+            },
+            {
+                "id": 481831,
+                "featured_image": 31536,
+                "diety": "Durga Devi ",
+                "locality": "Hapur",
+                "country": "India",
+                "state": "Uttar Pradesh",
+                "district": "Hapur",
+                "tehsil": "",
+                "title": "Maa Nagarkot Kangra Devi Mandir",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        77.745105,
+                        28.6136337
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "maa-nagarkot-kangra-devi-mandir-hapur-uttar-pradesh-915lgj",
+                "viewCount": "4521"
+            },
+            {
+                "id": 651911,
+                "featured_image": 31535,
+                "diety": "Bhoodevi ( Varahi Amman)",
+                "locality": "Chennai",
+                "country": "India",
+                "state": "Tamil Nadu",
+                "district": "Tiruvallur",
+                "tehsil": "",
+                "title": "Varahi Amman Temple AMBATTUR",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        80.1498254,
+                        13.1239336
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "varahi-amman-temple-ambattur-tiruvallur-tamil-nadu-186soi",
+                "viewCount": "4495"
+            },
+            {
+                "id": 779248,
+                "featured_image": 31758,
+                "diety": "Devi Maa",
+                "locality": "Malataj",
+                "country": "India",
+                "state": "Gujarat",
+                "district": "Kheda",
+                "tehsil": "",
+                "title": "Meldi Maa Temple Malataj",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        72.69484709999999,
+                        22.8243896
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "meldi-maa-temple-malataj-kheda-gujarat-644qlg",
+                "viewCount": "3903"
+            },
+            {
+                "id": 108153,
+                "featured_image": 30721,
+                "diety": "Shri Brahmalingeshwara Temple,",
+                "locality": "Chittoor",
+                "country": "India",
+                "state": "Karnataka",
+                "district": "Udupi",
+                "tehsil": "",
+                "title": "Shri Brahmalingeshwara Temple, Maranakatte",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        74.7799031,
+                        13.7280284
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "shri-brahmalingeshwara-temple-maranakatte-udupi-karnataka-662zak",
+                "viewCount": "3821"
+            },
+            {
+                "id": 643194,
+                "featured_image": 31598,
+                "diety": "Pal Muni",
+                "locality": "Villivalam",
+                "country": "India",
+                "state": "Tamil Nadu",
+                "district": "Kanchipuram",
+                "tehsil": "",
+                "title": "Pal Muneeswaran Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        79.7757683,
+                        12.790826
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "pal-muneeswaran-temple-kanchipuram-tamil-nadu-459woi",
+                "viewCount": "3235"
+            },
+            {
+                "id": 704080,
+                "featured_image": 31584,
+                "diety": "Shiva",
+                "locality": "Goregaon",
+                "country": "India",
+                "state": "Maharashtra",
+                "district": "Raigad",
+                "tehsil": "",
+                "title": "Shri Bhairi Bhavani Temple, Goregaon",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        73.2908836,
+                        18.1558957
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "shri-bhairi-bhavani-temple-goregaon-raigad-maharashtra-981tsg",
+                "viewCount": "2934"
+            },
+            {
+                "id": 32801,
+                "featured_image": 31515,
+                "diety": "Shiva ",
+                "locality": "Nallampillai",
+                "country": "India",
+                "state": "Tamil Nadu",
+                "district": "Tiruchirappalli",
+                "tehsil": "",
+                "title": "Veerapur Ponnar Shankar Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        78.3977864,
+                        10.6746795
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "veerapur-ponnar-shankar-temple-tiruchirappalli-tamil-nadu-76zsa",
+                "viewCount": "2792"
+            },
+            {
+                "id": 28055,
+                "featured_image": 32069,
+                "diety": "Parvati Devi",
+                "locality": "Boothi Puram",
+                "country": "India",
+                "state": "Tamil Nadu",
+                "district": "Dindigul",
+                "tehsil": "",
+                "title": "Sri Mookuthi Amman Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        77.94499259999999,
+                        10.4125894
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "sri-mookuthi-amman-temple-dindigul-tamil-nadu-157urz",
+                "viewCount": "1815"
+            },
+            {
+                "id": 40040,
+                "featured_image": 31605,
+                "diety": "Sri Kartikey",
+                "locality": "Vattamalai",
+                "country": "India",
+                "state": "Tamil Nadu",
+                "district": "Tiruppur",
+                "tehsil": "",
+                "title": "Vattamalai Murugan Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        77.5432227,
+                        10.9456032
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "vattamalai-murugan-temple-tiruppur-tamil-nadu-569ebc",
+                "viewCount": "1474"
+            },
+            {
+                "id": 852747,
+                "featured_image": 761,
+                "diety": "Guru Dhakshinamoorthy Swamigal",
+                "locality": "Tiruvarur",
+                "country": "India",
+                "state": "Thiruvarur District",
+                "district": "Tamil Nadu",
+                "tehsil": null,
+                "title": "Guru Dakshinamoorthy Swamigal Temple, Tiruvarur",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        79.63251466611041,
+                        10.77632919399764
+                    ]
+                },
+                "createdAt": "2020-12-08T08:35:39.421Z",
+                "webLink": "guru-dakshinamoorthy-swamigal-temple-tiruvarur-undefined-tamil-nadu-936dku",
+                "viewCount": "1326"
+            },
+            {
+                "id": 627471,
+                "featured_image": 31507,
+                "diety": "Bhoodevi (VARAHI AMMAN)",
+                "locality": "Salem",
+                "country": "India",
+                "state": "Tamil Nadu",
+                "district": "Salem",
+                "tehsil": "",
+                "title": "OM VARAHI AMMAN TEMPLE",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        78.2274199,
+                        11.7144772
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "om-varahi-amman-temple-salem-tamil-nadu-936lqx",
+                "viewCount": "1207"
+            },
+            {
+                "id": 463164,
+                "featured_image": 31826,
+                "diety": "Parvati Devi",
+                "locality": "Chhata",
+                "country": "India",
+                "state": "Uttar Pradesh",
+                "district": "Mathura",
+                "tehsil": "",
+                "title": "Nari Semari Devi Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        77.53834429999999,
+                        27.6694282
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "nari-semari-devi-temple-mathura-uttar-pradesh-713vps",
+                "viewCount": "1073"
+            },
+            {
+                "id": 186597,
+                "featured_image": null,
+                "diety": "Shri Varada Rajeshwara Swami",
+                "locality": "",
+                "country": "India",
+                "state": "Telangana",
+                "district": "Karimnagar",
+                "tehsil": "",
+                "title": "Shri Varada Rajeshwara Swami Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        78.8510764,
+                        18.2678056
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "shri-varada-rajeshwara-swami-temple-karimnagar-telangana-937dud",
+                "viewCount": "1023"
+            },
+            {
+                "id": 559906,
+                "featured_image": 31835,
+                "diety": "Bhoodevi",
+                "locality": "Abiramapuram",
+                "country": "India",
+                "state": "Tamil Nadu",
+                "district": "Chennai",
+                "tehsil": "",
+                "title": "Pachai Amman Varahi Temple Mylapore",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        80.262395,
+                        13.0347075
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "pachai-amman-varahi-temple-mylapore-chennai-tamil-nadu-179tqq",
+                "viewCount": "1022"
+            },
+            {
+                "id": 656676,
+                "featured_image": 31512,
+                "diety": "Shiva ( Kanchi Viswanatha Swami)",
+                "locality": "Puttur",
+                "country": "India",
+                "state": "Andhra Pradesh",
+                "district": "Chittoor",
+                "tehsil": "",
+                "title": "Sri Kanchi Viswanatha Swamigal Madam",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        79.632947,
+                        13.3883065
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "sri-kanchi-viswanatha-swamigal-madam-chittoor-andhra-pradesh-19vge",
+                "viewCount": "1012"
+            },
+            {
+                "id": 80915,
+                "featured_image": 31602,
+                "diety": "Devi Maa",
+                "locality": "Arasikatte Kaval",
+                "country": "India",
+                "state": "Karnataka",
+                "district": "Hassan",
+                "tehsil": "",
+                "title": "Arasikatte Amma Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        76.0335341,
+                        12.6571143
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "arasikatte-amma-temple-hassan-karnataka-197abv",
+                "viewCount": "1011"
+            },
+            {
+                "id": 589550,
+                "featured_image": 34143,
+                "diety": "Bhadrakali",
+                "locality": "Venganoor",
+                "country": "India",
+                "state": "Kerala",
+                "district": "Thiruvananthapuram",
+                "tehsil": "",
+                "title": "Pournamikavu Bhadrakali Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        77.0178214,
+                        8.4000782
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "pournamikavu-bhadrakali-temple-thiruvananthapuram-kerala-397bgt",
+                "viewCount": "969"
+            },
+            {
+                "id": 93093,
+                "featured_image": 30704,
+                "diety": "Sri Gangadhareshwara",
+                "locality": "Adichunchanagiri",
+                "country": "India",
+                "state": "Karnataka",
+                "district": "Tumkur",
+                "tehsil": "",
+                "title": "Sri Kalabhairaveshwara Swamy Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        76.74728569999999,
+                        13.0231933
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "sri-kalabhairaveshwara-swamy-temple-tumkur-karnataka-165uws",
+                "viewCount": "956"
+            },
+            {
+                "id": 413618,
+                "featured_image": 32684,
+                "diety": "Shri Rawatpura Sarkar",
+                "locality": "Lahar",
+                "country": "India",
+                "state": "Madhya Pradesh",
+                "district": "Bhind",
+                "tehsil": "",
+                "title": "Shri Rawatpura Sarkar Dham",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        78.9531398,
+                        26.1085294
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "shri-rawatpura-sarkar-dham-bhind-madhya-pradesh-262vbu",
+                "viewCount": "916"
+            }
+        ],
+        "imageLocations": {
+            "761": "c1dd3527b600058debb882decb5e6c2f_219.png",
+            "30704": "20b573c1439c2f4d7bf6aecdacbfada1_248.jpg",
+            "30721": "0ea855f5ddf4f1d2ea6da028ea44ae36_219.jpg",
+            "31507": "7073201cc4ec6cc5120093a35e896fdc_942.png",
+            "31512": "d851a02a1bfc3c9d2e81f34663340280_942.png",
+            "31515": "4248773b05718aa1a551945ebdf747a5_942.png",
+            "31535": "22fdca82e47bd3baacc2f2a1ac89999b_942.jpg",
+            "31536": "3f0064f5d8027e1b1e52d89372679650_942.png",
+            "31549": "d92e303c3b5e9fca33feb86a2ce25db9_942.png",
+            "31584": "a1118d0295ed2e147137a2e46cabdabb_942.png",
+            "31598": "76f0921b657b552247a896f14700e682_942.png",
+            "31602": "2c6ec03761ef1eee66d09da3eb33f2f1_942.png",
+            "31605": "50464234616d81a869614c5ce4c4261c_942.png",
+            "31758": "45c5fec4978828e8e3559ef99c84a9c6_942.png",
+            "31826": "f73ed6a4fb52d162a91ed94ba7fc6749_942.png",
+            "31835": "fb6a30e69b590ba8ae502edad591f039_942.png",
+            "32069": "06627c668b0b381820126e0e8ce7d652_942.png",
+            "32684": "e06b4e3c85ab9e878685e9bfbef01ddc_942.png",
+            "34143": "a7c78d2b5fd145558acd29e796e4cbea_1158.jpg",
+            "null": "Golden-Temple.jpg"
+        }
+    },
+    "featuredTemples": {
+        "imageLocations": {
+            "484": "24e9b0160213167469344c75d_316.jpg",
+            "562": "9ea14c998cefb628eee665f7e0b08ba8_219.jpg",
+            "570": "4b9bac9db737aeb747ba512e1b6dd3b1_219.png",
+            "593": "d5da6971b0dbc4c955ea80eac53bb9a4_219.png",
+            "594": "479b87e2507793dd58e7c5cdb1bf0769_219.png",
+            "611": "184d30156886b49b1659de2828465263_219.png",
+            "613": "7cc3e698934a5ac063f54c298a2f5950_219.png",
+            "617": "3debf1a035719e3c2638c0c5ad17aee3_219.png",
+            "618": "7dd911455ebfbb2f89b7f172dbc601b5_219.jpeg",
+            "624": "5cdb3f66d1a375572f3604a84afc49f2_219.jpeg",
+            "628": "ba487284c2c91d253c4da4b3786e23be_219.png",
+            "631": "6734a0ca245bade3815fb333492356e5_219.png",
+            "637": "66133df7ecfed542a4e51ccbfb059db7_219.jpeg",
+            "638": "66b4485c39e40d37b914b42415553ffd_219.png",
+            "645": "38556e172b1ca85103fdece0d7f43cbb_219.png",
+            "646": "4650fc488d08bd7a1c210e85faf5d810_219.png",
+            "650": "48bdebe11f018d3e8b7e1ff71b163bec_219.png",
+            "null": "Golden-Temple.jpg"
+        },
+        "temples": [
+            {
+                "id": 202875,
+                "featured_image": 645,
+                "diety": "Kamakshi ambaal",
+                "locality": "Navi Mumbai",
+                "country": "India",
+                "state": "Maharashtra",
+                "district": "Thane",
+                "tehsil": "",
+                "title": "Kamakshi Amman Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        73.023748,
+                        19.0435559
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "kamakshi-amman-temple-thane-maharashtra-446aqk",
+                "viewCount": "185"
+            },
+            {
+                "id": 715450,
+                "featured_image": 646,
+                "diety": "Anjajeya",
+                "locality": "Navi Mumbai",
+                "country": "India",
+                "state": "Maharashtra",
+                "district": "Thane",
+                "tehsil": "",
+                "title": "Anjaneya temple, Nerul",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        73.024135,
+                        19.0432569
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "35-ft-anjaneya-temple-thane-maharashtra-95cge",
+                "viewCount": "97"
+            },
+            {
+                "id": 835532,
+                "featured_image": 618,
+                "diety": "Hanuman",
+                "locality": "Varanasi",
+                "country": "India",
+                "state": "Uttar Pradesh",
+                "district": "Varanasi",
+                "tehsil": "",
+                "title": "Sankat Mochan Hanuman Mandir, Varanasi",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        83.02284000000002,
+                        25.3775349
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "sankat-mochan-hanuman-mandir-varanasi-uttar-pradesh-870jex",
+                "viewCount": "69"
+            },
+            {
+                "id": 202329,
+                "featured_image": 638,
+                "diety": "Siddhi Vinayak ( Shree Ganesh )",
+                "locality": "Prabhadevi",
+                "country": "India",
+                "state": "Maharashtra",
+                "district": "Mumbai",
+                "tehsil": "",
+                "title": "Shree Siddhivinayak Ganapati Mandir",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        72.8303439,
+                        19.01689859999999
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "shree-siddhivinayak-ganapati-mandir-mumbai-maharashtra-12qej",
+                "viewCount": "192"
+            },
+            {
+                "id": 388266,
+                "featured_image": 617,
+                "diety": "Kashi Vishwanathar",
+                "locality": "Pura Raghunathpur",
+                "country": "India",
+                "state": "Uttar Pradesh",
+                "district": "Varanasi",
+                "tehsil": "",
+                "title": "Shri Kashi Vishwanath, BHU - Varanasi",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        82.8567403,
+                        25.4487212
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "shri-kashi-vishwanath-varanasi-uttar-pradesh-704aps",
+                "viewCount": "53"
+            },
+            {
+                "id": 269437,
+                "featured_image": 650,
+                "diety": "Krishna",
+                "locality": "Vadodara",
+                "country": "India",
+                "state": "Gujarat",
+                "district": "Vadodara",
+                "tehsil": "",
+                "title": "ISKCON Krishna Temple, Vadodara",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        73.15177489999999,
+                        22.3093344
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "iskcon-baroda-vadodara-gujarat-205udi",
+                "viewCount": "167"
+            },
+            {
+                "id": 48559,
+                "featured_image": 611,
+                "diety": "Sri Srinivasan",
+                "locality": "Annankoil",
+                "country": "India",
+                "state": "Tamil Nadu",
+                "district": "Nagapattinam",
+                "tehsil": "",
+                "title": "Sri Srinivasa Perumal Temple,Thiru Vellakkulam",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        79.76468299999999,
+                        11.1901551
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "அருள்மிகு-சீனிவாசப்பெருமாள்-அண்ணன்-பெருமாள்-திருக்கோயில்-திருவெள்ளக்குளம்-nagapattinam-tamil-nadu-265cba"
+            },
+            {
+                "id": 220400,
+                "featured_image": 593,
+                "diety": "Kailashanatha (Shiva)",
+                "locality": "Ellora",
+                "country": "India",
+                "state": "Maharashtra",
+                "district": "Aurangabad",
+                "tehsil": "",
+                "title": "Kailasa Temple, Ellora",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        75.1791233,
+                        20.0237503
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "kailasa-temple-aurangabad-maharashtra-842wzy",
+                "viewCount": "106"
+            },
+            {
+                "id": 40209,
+                "featured_image": 637,
+                "diety": "Shiva (Rudra) ",
+                "locality": "null",
+                "country": "India",
+                "state": "Tamil Nadu",
+                "district": "Tiruchirappalli District",
+                "tehsil": "Musiri",
+                "title": "Chandramouleeswarar ( Shiva ) Temple, Musiri ",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        78.4420336,
+                        10.947618
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "musiri-shiva-temple-tiruchirappalli-tamil-nadu-619eae",
+                "viewCount": "700"
+            },
+            {
+                "id": 223805,
+                "featured_image": 628,
+                "diety": "Kedar (Shiva)",
+                "locality": "Old Town",
+                "country": "India",
+                "state": "Odisha",
+                "district": "Khordha",
+                "tehsil": "",
+                "title": "Kedar Gouri Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        85.84028110000001,
+                        20.2422035
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "kedar-gouri-temple-khordha-odisha-449gtk",
+                "viewCount": "61"
+            },
+            {
+                "id": 223790,
+                "featured_image": 624,
+                "diety": "Shiva As Lingaraja",
+                "locality": "Old Town",
+                "country": "India",
+                "state": "Odisha",
+                "district": "Khordha",
+                "tehsil": "",
+                "title": "Lingaraj Temple Bhubaneswar",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        85.8337509,
+                        20.2382383
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "lingaraj-temple-bhubaneswar-khordha-odisha-991kxj",
+                "viewCount": "118"
+            },
+            {
+                "id": 723540,
+                "featured_image": 631,
+                "diety": "Jagannath (Vishnu)",
+                "locality": "null",
+                "country": "India",
+                "state": "Odisha",
+                "district": "Puri",
+                "tehsil": "Puri (M)",
+                "title": "Shri Jagannath Temple, Puri",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        85.81946289999999,
+                        19.80464389999999
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "shri-jagannath-temple-main-entrance-puri-odisha-572aqo",
+                "viewCount": "162"
+            },
+            {
+                "id": 201502,
+                "featured_image": 562,
+                "diety": "Mahalakshmi",
+                "locality": "Cumballa Hill",
+                "country": "India",
+                "state": "Maharashtra",
+                "district": "Mumbai",
+                "tehsil": "",
+                "title": "Shree Mahalakshmi Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        72.8065182,
+                        18.9773573
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "shree-mahalakshmi-temple-mumbai-maharashtra-767lri",
+                "viewCount": "87"
+            },
+            {
+                "id": 301819,
+                "featured_image": 484,
+                "diety": "Mahakal (shankar)",
+                "locality": "",
+                "country": "",
+                "state": "",
+                "district": "",
+                "tehsil": "",
+                "title": "Mahakaleshwar Jyotirlinga, Ujjain, Madhya Pradesh",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        23.183196064591186,
+                        75.7680166229087
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "mahakaleshwar-jyotirlinga-ujjain-madhya-pradesh-29kdx",
+                "viewCount": "513"
+            },
+            {
+                "id": 46634,
+                "featured_image": 570,
+                "diety": "Ambal Sannathi",
+                "locality": "Chettikulam",
+                "country": "India",
+                "state": "Tamil Nadu",
+                "district": "Perambalur",
+                "tehsil": "",
+                "title": "Ekambareswarar Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        78.7740081,
+                        11.1348572
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "ekambareswarar-temple-perambalur-tamil-nadu-329mud",
+                "viewCount": "135"
+            },
+            {
+                "id": 220015,
+                "featured_image": 594,
+                "diety": "Bhadra Maruti",
+                "locality": "Khuldabad",
+                "country": "India",
+                "state": "Maharashtra",
+                "district": "Aurangabad",
+                "tehsil": "",
+                "title": "Shri Bhadra Maruti Temple",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        75.19565829999999,
+                        20.00991969999999
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "shri-bhadra-maruti-temple-aurangabad-maharashtra-537hkx",
+                "viewCount": "150"
+            },
+            {
+                "id": 46800,
+                "featured_image": 613,
+                "diety": "Vadaranyeswarar",
+                "locality": "Mayiladuthurai",
+                "country": "India",
+                "state": "Tamil Nadu",
+                "district": "Nagapattinam",
+                "tehsil": "",
+                "title": "Vadaranyeswarar ( Vallalar Koil Shiva ) Temple, Mayiladuthurai",
+                "coord": {
+                    "type": "Point",
+                    "coordinates": [
+                        79.65328199999999,
+                        11.1077011
+                    ]
+                },
+                "createdAt": null,
+                "webLink": "vallalar-koil-shiva-temple-nagapattinam-tamil-nadu-775rco",
+                "viewCount": "128"
+            }
+        ],
+        "count": 17
+    }
+}
